@@ -1,5 +1,7 @@
 # spa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SonyaMoisset/vue-test.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
