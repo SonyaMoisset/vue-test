@@ -28,7 +28,7 @@
     "copy-webpack-plugin": "4.0.1",
     "cross-env": "4.0.0",
     "cross-spawn": "5.1.0",
-    "css-loader": "0.28.1",
+    "css-loader": "0.28.11",
     "eventsource-polyfill": "0.9.6",
     "express": "4.17.1",
     "extract-text-webpack-plugin": "2.1.0",
