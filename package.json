@@ -35,7 +35,7 @@
     "file-loader": "0.11.1",
     "friendly-errors-webpack-plugin": "1.6.1",
     "html-webpack-plugin": "2.28.0",
-    "http-proxy-middleware": "0.17.4",
+    "http-proxy-middleware": "0.21.0",
     "inject-loader": "3.0.0",
     "lolex": "1.6.0",
     "nightwatch": "0.9.15",
