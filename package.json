@@ -11,7 +11,7 @@
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run"
   },
   "dependencies": {
-    "vue": "2.3.3",
+    "vue": "3.0.0",
     "vue-router": "2.5.3"
   },
   "devDependencies": {
